@@ -1967,6 +1967,10 @@ code {
 
 .mt-6 {
   margin-top: 1.5rem;
+  border-radius: 8px;
+  padding: 1em;
+  border:1px solid hsla(239, 72%, 66%, 0.377);
+  background-clip:padding-box;
 }
 
 .mt-8 {
